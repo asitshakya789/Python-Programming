@@ -1,0 +1,7 @@
+a=input("enter the value of a=")
+b=input("enter the value of b=")
+c=input("enter the value of c=")
+print(a,b,c ,sep=";")
+print(type(a))
+print(type(b))
+print(type(c))
