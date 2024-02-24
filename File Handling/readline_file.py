@@ -1,0 +1,5 @@
+filee = open('D:\Python 3.8\File Handling\hello.txt','r')
+line1 = filee.readline ()
+line2 = filee.readline()
+print(line1)
+print (line2)

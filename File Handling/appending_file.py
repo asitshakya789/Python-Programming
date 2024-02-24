@@ -1,0 +1,11 @@
+file1= open("D:\Python 3.8\File Handling\hello.txt",'w')
+l = ["delhi in india\n",'agraa in india\n','up in india \n']
+file1.writelines(l)
+file1.close()
+file1= open('D:\Python 3.8\File Handling\hello.txt','a')
+file1.write("hey asit \n")
+file1.close()
+print("Output of readlines after appending ")
+print(file1.read)
+print()
+file1.close()

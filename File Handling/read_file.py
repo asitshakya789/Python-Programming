@@ -1,0 +1,5 @@
+file1_read = open('D:\Python 3.8\File Handling\hello.txthello.txt',"w")
+file1_read.write("Mai asit hu ")
+file1_read.close()
+file1_read= open("D:\Python 3.8\File Handling\hello.txt","r")
+print(file1_read.read())
