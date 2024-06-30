@@ -1,0 +1,10 @@
+s = 'python'
+c=tuple(s)
+print("after converting string to tuple",c)
+print(type(c))
+c= set(s)
+print("after converting string to set",c)
+print(type(c))
+c=list(s)
+print("after converting string to set",c)
+print(type(c))

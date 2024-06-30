@@ -1,0 +1,2 @@
+class Dog:
+# 	sound = "bark"
