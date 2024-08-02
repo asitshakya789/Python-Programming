@@ -5,3 +5,5 @@ r.title('Counting second')
 button = tk.button(r,text="stop",width = 25,command = r .destroy)
 button.pack()
 r.mainloop()
+
+
